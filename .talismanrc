@@ -1,0 +1,22 @@
+fileignoreconfig:
+- filename: backend/.env.example
+  checksum: c148ce27b59a829f80890325ab62a6391b7a28cc664b69466b068804c47a1338
+- filename: backend/src/config/env.validation.ts
+  checksum: 373bb197099f288a1f64852ebe068b3b544e110bc21e0d6878c3ac3eaa318d2b
+- filename: frontend/.env.example
+  checksum: f3352418e8b4ac7dc0bdf40384391b7ab0b0bc1c507ac8a570c32f89c184f440
+- filename: backend/src/generated/prisma/internal/class.ts
+  checksum: a3d6f3642e4c69cdc7a21c87765f4d50392abece02b26a3170803bdfaaef94e6
+- filename: backend/src/generated/prisma/internal/prismaNamespace.ts
+  checksum: 3c8db6cb845a971fcd1ff9b36a13ec88f7e2bffaa3486cbe35f69b0bfaa51a3f
+- filename: frontend/package-lock.json
+  checksum: 34d854a2d60afebe4d949343fc1052a9e395bb9e0c19fc1935db498fcd3bd154
+- filename: backend/package-lock.json
+  checksum: 69c282caf3d63bed51a5691baa6a5a630b74443d0263c3ff63b21583f506c2e6
+- filename: docker-compose.yml
+  checksum: b4cb9d492a7236c5f187172ea2de60264f3a03e9d81a55314af12f92bb0d2bf9
+- filename: backend/src/generated/prisma/internal/prismaNamespaceBrowser.ts
+  checksum: 550661b35ab55f4b86dbc28e03746d946f9e28b9eae2ecf13e6cc268327ce830
+- filename: backend/README.md
+  checksum: 06ebe2e8afa082c7c5ae14dd03a0dff5e45c22eb55e029cd4a62f0bb028b2678
+version: "1.0"
