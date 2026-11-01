@@ -19,4 +19,10 @@ fileignoreconfig:
   checksum: 550661b35ab55f4b86dbc28e03746d946f9e28b9eae2ecf13e6cc268327ce830
 - filename: backend/README.md
   checksum: 06ebe2e8afa082c7c5ae14dd03a0dff5e45c22eb55e029cd4a62f0bb028b2678
+- filename: backend/src/config/env.validation.spec.ts
+  checksum: e1bbbda953cdd9e15553c1355eab010fa1ceac5dbfd2ee1cf31afd30f11b2368
+- filename: backend/src/config/env.validation.ts
+  checksum: 3041f2dbc5577ee544167a59ed8b9fcd9d9c68a39a816185541d963b3fd84338
+- filename: backend/package-lock.json
+  checksum: 2625b4a97671a4965c08b16690a7d461da126b1fb9c3af2f967b57897805ef24
 version: "1.0"
